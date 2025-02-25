@@ -1,0 +1,7 @@
+{
+    "d_hidden": 32,
+    "num_head": 2,
+    "transformer_blocks": 2,
+    "d_ff": 64,
+    "dropout": 0.1
+}
