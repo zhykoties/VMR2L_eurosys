@@ -4,11 +4,17 @@ Contact: Xianzhong Ding (xding5@ucmerced.edu), Yunkai Zhang (yunkai_zhang@berkel
 If you find this repo useful, please consider citing our paper :)
 
 ```
-@inproceedings{ding2025VMR2L,
+@inproceedings{ding2025towards,
   title={Towards VM Rescheduling Optimization Through Deep Reinforcement Learning},
-  author={Xianzhong Ding and Yunkai Zhang and Binbin Chen and Donghao Ying and Tieying Zhang and Jianjun Chen and Lei Zhang and Alberto Cerpa and Wan Du},
-  booktitle={European Conference on Computer Systems},
-  year={2025},
+  author={Ding, Xianzhong and Zhang, Yunkai and Chen, Binbin and Ying, Donghao and Zhang, Tieying and Chen, Jianjun and Zhang, Lei and Cerpa, Alberto and Du, Wan},
+  booktitle={Proceedings of the Twentieth European Conference on Computer Systems},
+  year={2025}
+}
+
+@misc{ding2023vmr2l,
+  title={Vmr2l: Virtual machines rescheduling using reinforcement learning in data centers},
+  author={Ding, Xianzhong and Zhang, Yunkai and Chen, Binbin and Ying, Donghao and Zhang, Tieying and Chen, Jianjun and Zhang, Lei and Cerpa, Alberto and Du, Wan},
+  year={2023}
 }
 ```
 
